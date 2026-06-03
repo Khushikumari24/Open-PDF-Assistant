@@ -1,0 +1,10 @@
+langchain
+langchain-community
+faiss-cpu
+pypdf
+gradio
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+torch
